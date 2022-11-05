@@ -12,9 +12,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   * [Installation](#installation)
   * [Usage](#usage)
   * [Questions](#questions)
-  * [License](#license)
-    
-    
+     
 ## Installation
     
   _Follow these steps to properly install this application:_

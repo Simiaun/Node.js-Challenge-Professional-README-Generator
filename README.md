@@ -47,22 +47,6 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   
   _Contact Info:_
 
-  GitHub: [JohnBanas](https://github.com/JohnBanas)
+  GitHub: [Simiaun](https://github.com/JohnBanas)
 
-  Email: [jbanas9124@gmail.com](mailto:jbanas9124@gmail.com)
-    
-## License
-
-      
-  _This application has the MIT License._
-      
-  For more information please view the [license description](https://choosealicense.com/licenses/mit/).
-  
-  
-
-# Contributers
-
-[Xandromus Xander Rapstine](https://github.com/Xandromus) <br>
-[gchoi2u](https://github.com/gchoi2u) <br>
-Original Source Code: [https://github.com/coding-boot-camp/potential-enigma](https://github.com/coding-boot-camp/potential-enigma)
-[How to create a Professional README](./readme-guide.md)
+  Email: [Simiaun@Icloud.com]

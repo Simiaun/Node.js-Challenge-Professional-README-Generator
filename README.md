@@ -47,6 +47,6 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   
   _Contact Info:_
 
-  GitHub: [Simiaun](https://github.com/JohnBanas)
+  GitHub: [SimiaunsGitHub](https://github.com/JohnBanas)
 
   Email: [Simiaun@Icloud.com]

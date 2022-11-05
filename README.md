@@ -31,19 +31,17 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   
   All the responses are converted to markdown format and the fs.write package will create the README.md file automatically upon completing the prompts.
   
-  ![A gif showing a person responding to the prompts in the CLI](https://media.giphy.com/media/LxMksZYZNKGAI7FFpm/giphy.gif)
-  
-  Here is an MP4 showing the entire process that can be watched through the Awesome Screenshot link below.
-  
-  [Walkthrough video](https://www.awesomescreenshot.com/video/3388382?key=680ec7d79b8e96a3e71766765730a916)
+  ![A gif showing someone responding to the prompts in the CLI](https://media.giphy.com/media/LxMksZYZNKGAI7FFpm/giphy.gif)
+   
+  [Walkthrough Not Provided.
   
   
       
 ## Questions
       
-  _For further questions:_
+  _Any other questions:_
 
-  If you have any questions, or additional feedback, please feel free to email me and I will respond as soon as possible.
+  If you have any questions, or additional feedback, please feel free to email me and I will respond as quickly as can be.
   
   _Contact Info:_
 

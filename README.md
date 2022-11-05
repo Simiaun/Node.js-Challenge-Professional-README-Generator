@@ -36,22 +36,4 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   Here is an MP4 showing the entire process that can be watched through the Awesome Screenshot link below.
   
   [Walkthrough video](https://www.awesomescreenshot.com/video/3388382?key=680ec7d79b8e96a3e71766765730a916)
-  
-  
-      
-## Questions
-      
-  _For further questions:_
-
-  If you have any questions, or additional feedback, please feel free to email me and I will respond as soon as possible.
-  
-  _Contact Info:_
-
-  GitHub: [JohnBanas](https://github.com/JohnBanas)
-
-  Email: [jbanas9124@gmail.com](mailto:jbanas9124@gmail.com)
-    
-## License
-
-      
-  _This application has the MIT License._
+ 
